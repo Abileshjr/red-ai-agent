@@ -1,0 +1,9 @@
+This project is an AI-powered agent that fetches trending posts from Reddit technology subreddits,
+summarizes them using an AI model, and sends the summaries to a Discord channel.
+Features
+Fetches top posts from Reddit using RSS feeds
+Generates summaries using AI
+Sends formatted messages to Discord
+Lightweight and easy to run
+Architecture
+RSS Feed (Reddit)>Fetch Top Posts>AI Summarization>Discord Webhook
